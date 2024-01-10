@@ -1,0 +1,12 @@
+{
+    "name": "app1",
+    "version": "1.0.0",
+    "description": "connection to mongodb",
+    "repository": "https://github.com/umangbhardwaj2001/mongoose_tutorial/",
+    "license": "ISC",
+    "dependencies":
+    {
+      "mongoose": "8.0.4"
+    }
+  }
+  
